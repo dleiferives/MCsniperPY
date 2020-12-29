@@ -1,3 +1,24 @@
+#Notes
+microsoft login --
+https://login.live.com/oauth20_authorize.srf?redirect_uri=https:%2f%2fsisu.xboxlive.com%2fconnect%2foauth%2fXboxLive&response_type=code&client_id=000000004420578E&scope=XboxLive.Signin&lw=1&fl=dob,easi2&xsup=1&cobrandid=8058f65d-ce06-4c30-9559-473c9275a65d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # This project is done
 
 MCsniperPY is done being developed.
